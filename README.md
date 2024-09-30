@@ -7,4 +7,4 @@
 > 
 > | Version  | Description |
 > | ------------- | ------------- |
-> | 1.0.0  | Added a list option to leave all scenarios from queue<br>![](https://github.com/Makume/ScenarioQueueLeaveAll/blob/main/(Images)/LeaveAll.png)|
+> | 1.0.0  | Added a list option to leave all scenarios from queue<br>![](https://github.com/Makume/ScenarioQueueLeaveAll/blob/main/Images/LeaveAll.png)|

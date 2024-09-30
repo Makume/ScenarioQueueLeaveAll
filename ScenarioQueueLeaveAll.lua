@@ -31,8 +31,6 @@ function ScenarioQueueLeaveAll.LeaveScenarioAll()
 	leaveStep = 1
 end
 
--- leaveStep muss auf 0 gesetzt werden wenn alle Queues durch sind mit abmelden
-
 function ScenarioQueueLeaveAll.OnUpdate(elapsed)
 	if SystemData.LoadingData.isLoading then
 		return
